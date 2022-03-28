@@ -11,7 +11,6 @@
   inputs.src-opentdb-1_1_1.ref   = "refs/tags/1.1.1";
   inputs.src-opentdb-1_1_1.owner = "ire4ever1190";
   inputs.src-opentdb-1_1_1.repo  = "nim-opentmdb";
-  inputs.src-opentdb-1_1_1.dir   = "";
   inputs.src-opentdb-1_1_1.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
