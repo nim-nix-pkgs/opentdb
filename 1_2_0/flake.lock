@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-opentdb-master": "src-opentdb-master"
+        "src-opentdb-1_2_0": "src-opentdb-1_2_0"
       }
     },
-    "src-opentdb-master": {
+    "src-opentdb-1_2_0": {
       "flake": false,
       "locked": {
         "lastModified": 1656895745,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "ire4ever1190",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/1.2.0",
         "repo": "nim-opentmdb",
         "type": "github"
       }
